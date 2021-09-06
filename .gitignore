@@ -1,0 +1,24 @@
+Library/
+Temp/
+obj/
+build/
+Assets/unity-chan!/
+Logs/
+#Visual Studio相关目录
+.vs/
+.vsconfig
+#自动生成的 VS / MD / Consulo解决方案和项目文件
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
